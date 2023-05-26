@@ -1,3 +1,6 @@
+# Reminders
+
+
 Introduction:
 Schedule future notifications and reminders in Laravel.To prevent users receiving all of the old scheduled notifications at once, the command will only send mail within the configured tolerance. By default this is set to 24 hours, so only mail scheduled to be sent within that window will be sent.
 
